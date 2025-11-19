@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+new/
+
+# Environment variables
+.env
+.env.*
+
+# SQLite DB
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Docker
+*.pid
+*.sock
+
+# MyPy / PyCache
+.mypy_cache/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage
+htmlcov/
+.coverage
